@@ -43,7 +43,7 @@
 		"@sapphire/cli": "^1.6.1",
 		"@sapphire/eslint-config": "^4.4.3",
 		"@sapphire/prettier-config": "^1.4.5",
-		"@sapphire/ts-config": "^4.0.1",
+		"@sapphire/ts-config": "^5.0.1",
 		"@types/eslint": "^8.44.2",
 		"@types/node": "^18.17.6",
 		"@types/ws": "^8.5.5",
